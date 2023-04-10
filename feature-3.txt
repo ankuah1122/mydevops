@@ -1,1 +1,3 @@
-this is the 3rd page in devbranch
+this is the 3rd page in devbranch ruk jaa bhai yaha pe gitreset use kra hai humne  isse tum firse pgle wala working stage pe aae gye ho
+
+yaha pe ab 2nd devloper aaya or isse file mai change kr diya 
